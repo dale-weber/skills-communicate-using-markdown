@@ -1,4 +1,7 @@
 # On Track?
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 ### Could have used one more layer of specificity in preceding instructions
 
